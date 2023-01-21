@@ -2,3 +2,10 @@
     background-color: rgb(235, 61, 61);
     opacity: .5;
 }
+.card{
+    width: calc(90%/3);
+
+}
+/* .card img{
+    height: 200px;
+} */
